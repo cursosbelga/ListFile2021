@@ -23,7 +23,7 @@ Este é um projeto do thinkphp, quero obter os arquivos em seu diretório e subd
 
 Copie seu caminho neste momento，E adicione\
 
-![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/ListFile/1620681317(1).jpg)
+![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/1620681317(1).jpg)
 
 <h3>Se eu só quiser arquivos do tipo php</h3>
 
@@ -31,16 +31,16 @@ Copie seu caminho neste momento，E adicione\
 python3 ListFile.py E:\1\thinkphp-master\ php
 
 
-![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/ListFile/1620680922(1).jpg)
+![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/1620680922(1).jpg)
 
 <h3>Se eu quiser obter o caminho de todos os arquivos e diretórios</h3>
 
 python3 ListFile.py E:\1\thinkphp-master\ *
 
 
-![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/ListFile/1620681082(1).jpg)
+![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/1620681082(1).jpg)
 
 
 Os arquivos e diretórios adquiridos serão salvos em arquivo.txt中
 
-![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/ListFile/1620681167(1).jpg)
+![avatar](https://github.com/cursosbelga/ListFile2021/blob/main/1620681167(1).jpg)
